@@ -209,14 +209,13 @@ footer {
 
   margin-bottom: 100px;
 
-  border-top: 1px solid #D6D6D6;
+  border-top: 1px solid #d6d6d6;
   border-radius: 0 0 8px 8px;
-
 }
 
 footer .button {
   height: 56px;
-  background: #04D361;
+  background: #04d361;
   border-radius: 8px;
   border-style: none;
 
@@ -230,9 +229,10 @@ footer .button {
 }
 
 footer .button:hover {
-  background: #079849;  
+  background: #079849;
 }
 
 input:invalid:hover {
   border: 1px solid red;
 }
+
